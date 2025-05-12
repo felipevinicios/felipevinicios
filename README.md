@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @felipevinicios
-- 👀 I’m interested in  Estagio em Java Back end!
-- 🌱 I’m currently learning  Analise e Desenvolvimento de Sistemas, no momento  estou focado em aprender a  Linguagem  de programção java!
-- 💞️ I’m looking to collaborate on  com meu conhecimento de tudo que aprendi e estou aprende até o  moment!
-- 📫 How to reach me  pelo  E-mail: felipe.1577@outlook.com 
+- 👋 Olá, sou o @felipevinicios  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando Engenharia da Computação  
+- 👨‍💻 Focado em Desenvolvimento Back-End com Java (Spring Boot) e C# (.NET)  
+- 🛠️ Experiência com Docker, MySQL, Visual Studio e Eclipse  
+- 🚀 Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais  
+- 📚 Sempre aprendendo e evoluindo com foco em boas práticas e soluções escaláveis  
+- 📫 Contato: felipe.1577@outlook.com  
 
 <!---
 felipevinicios/felipevinicios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
